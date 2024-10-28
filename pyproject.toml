@@ -20,8 +20,6 @@ python-dateutil = "^2.9.0"
 python = ">=3.9,<3.13"
 pytz = "^2024.1"
 requests = "^2.31.0"
-pandas = "^2.1.1"
-
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.4.2"
